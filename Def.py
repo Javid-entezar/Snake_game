@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Initialize Pygame
+# Initialize Pygame changes 
 pygame.init()
 
 # Set up display
@@ -96,3 +96,4 @@ while not game_over:
 
 # Quit Pygame
 pygame.quit()
+# trying to push to github
